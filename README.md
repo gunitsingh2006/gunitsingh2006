@@ -1,13 +1,48 @@
-- 👋 Hi, I’m @gunitsingh2006
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi 👋, I'm Gunit Singh</h1>
+<h3 align="center">🚀 Developer | 🖥️ Tech Enthusiast | 💡 Lifelong Learner</h3>
 
-<!---
-gunitsingh2006/gunitsingh2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?gunitsingh2006=your-gunitsingh2006&show_icons=true&theme=radical)
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+### 🚀 About Me:
+- 💻 I love coding and building cool projects.
+- 🌱 Currently learning **new technologies & frameworks**.
+- 🎯 Passionate about **open-source contributions**.
+- 📫 Reach me at **gunitsingh2006@example.com**.
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gunitsingh2006&show_icons=true&theme=radical" alt="Gunit Singh's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gunitsingh2006&theme=radical" alt="Gunit Singh's GitHub Streak" width="48%" />
+</p>
+
+---
+
+### 🔥 Most Used Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunitsingh2006&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gunitsingh2006&theme=onedark" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 🛠️ Tech Stack:
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 💬 Connect with Me:
+<p 
