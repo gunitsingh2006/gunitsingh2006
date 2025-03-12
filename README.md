@@ -7,7 +7,7 @@
 - 💻 I love coding and building cool projects.
 - 🌱 Currently learning **new technologies & frameworks**.
 - 🎯 Passionate about **open-source contributions**.
-- 📫 Reach me at **gunitsingh2006@example.com**.
+- 📫 Reach me at **gunitsingh.duggal@gmail.com**.
 
 ---
 
