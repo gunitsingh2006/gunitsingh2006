@@ -50,4 +50,5 @@
 ---
 
 ### 💬 Connect with Me:
-<p 
+<p bold align="center"
+  gunitsingh.duggal@gmail.com</p>
